@@ -3,4 +3,4 @@
 
 ezt a sort user2 írta
 szerkeszti tovább user2 a filet.
-kitti beleír ebbe a file-ba
+user1 beleír ebbe a file-ba
